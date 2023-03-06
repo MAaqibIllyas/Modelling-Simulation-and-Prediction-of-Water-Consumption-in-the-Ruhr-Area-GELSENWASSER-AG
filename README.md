@@ -1,5 +1,4 @@
 # Modelling-Simulation-and-Prediction-of-Water-Consumption-in-the-Ruhr-Area-(GELSENWASSER AG)
-<<<<<<< HEAD
 
 
 ### Task
@@ -8,52 +7,50 @@ A series of experiments is conducted for the prediction of water consumption in 
 
 This project covers the following steps:
 
-## Univariate Time-series Data Analysis
+### Univariate Time-series Data Analysis
 
 
-* ### Partial Auto-Correlation (PACF)
+* #### Partial Auto-Correlation (PACF)
 
-* ### Decomposition of Time Series Data
+* #### Decomposition of Time Series Data
 
-## Batch Learning Algorithms
+### Batch Learning Algorithms
 
-* ### MSTL Model (Multi-Seasonal Time Series Decomposition)
+* #### MSTL Model (Multi-Seasonal Time Series Decomposition)
 
-* ### AutoETS Model (Automatic Exponential Smoothing)
+* #### AutoETS Model (Automatic Exponential Smoothing)
 
-* ### AutoArima "Automatic AutoRegressive Integrated Moving Average"
+* #### AutoArima "Automatic AutoRegressive Integrated Moving Average"
 
-* ### Naive Forecaster
+* #### Naive Forecaster
 
-## Online Machine Learning Algorithms
+### Online Machine Learning Algorithms
 
-* ### Holt-Winters
+* #### Holt-Winters
 
-* ### SNARIMAX
+* #### SNARIMAX
 
-* ### Naive Forecaster
+* #### Naive Forecaster
 
-## Models Comparison
+### Models Comparison
 
-* ### Evaluation Function
+* #### Evaluation Function
 
-* ### Benchmarking
+* #### Benchmarking
 
-* ### Comparison of Time, Memory & Performance
+* #### Comparison of Time, Memory & Performance
 
-## Hyperparameter Tuning
+### Hyperparameter Tuning
 
-* ### SNARIMAX HP-Tuning
+* #### SNARIMAX HP-Tuning
 
-* ### Holt-Winters HP-Tuning
+* #### Holt-Winters HP-Tuning
 
-## Multivariate Forecasting
+### Multivariate Forecasting
 
-* ### Multivariate Time-series Data Preparation
+* #### Multivariate Time-series Data Preparation
 
-* ### Exploratory Data Analysis and Features selection
+* #### Exploratory Data Analysis and Features selection
 
-* ### VAR model Forecasting (Vector AutoRegression)
+* #### VAR model Forecasting (Vector AutoRegression)
 
-=======
->>>>>>> origin/main
