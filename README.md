@@ -1,4 +1,5 @@
 # Modelling-Simulation-and-Prediction-of-Water-Consumption-in-the-Ruhr-Area-(GELSENWASSER AG)
+<<<<<<< HEAD
 
 
 ### Task
@@ -54,3 +55,5 @@ This project covers the following steps:
 
 * ### VAR model Forecasting (Vector AutoRegression)
 
+=======
+>>>>>>> origin/main
